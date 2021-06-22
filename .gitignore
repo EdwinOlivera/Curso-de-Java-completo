@@ -27,7 +27,8 @@ Instaladores/Dracula - Netbeans/netbeans-master.zip
 *.tar.gz
 *.rar
 
-Instaladores/*
+Instaladores/
+Ejercicios de Practica/
 
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
